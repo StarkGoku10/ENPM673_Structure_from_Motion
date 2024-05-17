@@ -498,6 +498,6 @@ class StructurefromMotion:
         np.savetxt(self.img_obj.path + '\\Results\\' + self.img_obj.image_list[0].split('\\')[-2]+'_pose_array.csv', pose_array, delimiter = '\n')
 
 if __name__ == '__main__':
-    sfm = StructurefromMotion("Test\Datasets\\fountain-P11")
+    sfm = StructurefromMotion("Datasets\\fountain-P11")
     sfm()
     # sfm(bundle_adjustment_enabled=True)
