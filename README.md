@@ -13,8 +13,12 @@ Instructions:
 
  2. The file structure represented in the github repository is not the same as in the code.
 
- 3. Run the SFM.py file to generate the .ply file for point cloud.
+ 3. Bundle adjutment is disabled by default.
+ 
+ 4. Run the SFM.py file to generate the .ply file for point cloud.
 
- 4. Run the visualize.py file to visualize the point cloud. 
+ 5. Run the visualize.py file to visualize the point cloud. 
 
- 5. Github repository link: https://github.com/StarkGoku10/ENPM673_Structure_from_Motion.git
+ 6.. Github repository link: https://github.com/StarkGoku10/ENPM673_Structure_from_Motion.git
+
+ 
